@@ -4,6 +4,8 @@ set number
 set expandtab
 set tabstop=2
 set shiftwidth=2
+set ignorecase
+set smartcase
 syntax enable
 
 set nocompatible              " be iMproved, required
