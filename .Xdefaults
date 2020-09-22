@@ -15,6 +15,7 @@ Xft*dpi:                96
 Xft*antialias:          true
 Xft*hinting:            full
 
+URxvt.saveLines: 100000
 URxvt*geometry: 85x20
 URxvt*fading:        0
 URxvt*tintColor:     #ffffff
